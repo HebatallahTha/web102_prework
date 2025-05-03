@@ -26,9 +26,8 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Loom link: https://www.loom.com/share/5a14eb0f282b476199fc7caa5b966951?sid=3ef41b77-6d74-4f05-b827-7ed6845973b8 
-
-
+Loom link:
+ https://www.loom.com/share/4d320a6b9d544a2caba1dae7661342e8?sid=bc57bba7-88e8-4f6d-806a-34d0d70456b7
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with EzGIF
